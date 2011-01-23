@@ -1,0 +1,33 @@
+#logo
+{
+  font-size:16px;	
+  text-align:center;
+}
+
+#logo a
+{
+	background:url(../images/Logo.png) no-repeat center;
+	text-indent:-9999px;
+	display:block;
+  height: 150px;
+}
+
+h1, h2, h3, h4, h5, h6,
+p, body
+{
+	margin:5px;
+	padding:5px;
+}
+body
+{	
+	font-size:12px;	
+	line-height:160%;
+}
+body, textarea
+{
+	font-family:Arial, Helvetica, Times, serif;
+}
+h1, h2, h3, h4, h5, h6, .menu
+{
+	font-family:'LeagueGothicRegular', 'Arial Narrow', Arial, Helvetica;
+}
